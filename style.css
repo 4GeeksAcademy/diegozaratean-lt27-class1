@@ -1,0 +1,38 @@
+
+body{
+    background-color: #FF0;
+}
+
+
+
+img{
+    width: 250px;
+}
+
+p{
+    background-color: red;
+}
+
+.parrafo_principal{
+    background-color: aquamarine;
+}
+
+#parrafo_3 {
+    background-color: #F0F;
+}
+
+.enlace{
+    background-color: #272727;
+    color: white;
+    padding: 20px 40px;
+    font-size: 35px;
+    line-height: 35px;
+    margin: 30px 10px;
+    border-radius: 28px;
+}
+
+.enlace:hover{
+    background-color: #FFF;
+    color: #272727; 
+}
+    
