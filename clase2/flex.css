@@ -26,3 +26,9 @@
 .otrofelx {
     align-items: flex-end;
 }
+
+
+.otrofelx:hover {
+    background-color: #f0f;
+    color: #FF0;
+}
