@@ -6,3 +6,13 @@ div {
     background-color: rgb(201, 255, 243);
     border: 1px solid #f0f;
 }
+
+
+
+.btn-primary{
+    background-color: #1aa24e;
+}
+
+.boton_magenta {
+    background-color: #c229d2;
+}
